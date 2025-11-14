@@ -107,5 +107,4 @@ This endpoint verifies if a provider exists based on the business name and email
 - `providerModel` for database operations.
 - `createProvider` service for provider creation.
 - `mailVerification` for sending email OTPs.
--
 
