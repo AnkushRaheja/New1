@@ -109,6 +109,3 @@ This endpoint verifies if a provider exists based on the business name and email
 - `mailVerification` for sending email OTPs.
 -
 
-
-
-
