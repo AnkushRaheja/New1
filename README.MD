@@ -1,4 +1,5 @@
 # Provider Model
+
 This file defines the schema for the `provider` collection in MongoDB using Mongoose. It includes fields related to the provider's business, contact details, address, and financial information.
 
 ## Schema Definition
@@ -107,6 +108,7 @@ This endpoint verifies if a provider exists based on the business name and email
 - `createProvider` service for provider creation.
 - `mailVerification` for sending email OTPs.
 -
+
 
 
 
